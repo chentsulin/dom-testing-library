@@ -43,7 +43,6 @@
 
 - [The Problem](#the-problem)
 - [This Solution](#this-solution)
-- [Example](#example)
 - [Installation](#installation)
 - [Implementations](#implementations)
 - [Other Solutions](#other-solutions)
